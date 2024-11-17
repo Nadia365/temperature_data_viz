@@ -47,5 +47,9 @@ Produced Dashboard to visualize the following :
 - Create Plotly Choropleth Map with Years animated on X-axis and CO2 Emission on Y-axis to show world CO2 emission through years on world map
 
 o   Show the same for Africa, Europe, Russia, and USA
-
-
+![Alt text](https://github.com/Nadia365/temperature_data_viz/blob/main/newplot%20(1).png) 
+![Alt text](https://github.com/Nadia365/temperature_data_viz/blob/main/newplot%20(2).png)  
+![Alt text](https://github.com/Nadia365/temperature_data_viz/blob/main/newplot%20(3).png)  
+![Alt text](https://github.com/Nadia365/temperature_data_viz/blob/main/newplot%20(4).png)   
+![Alt text](https://github.com/Nadia365/temperature_data_viz/blob/main/newplot.png) 
+![Alt text](https://github.com/Nadia365/temperature_data_viz/blob/main/newplot%20(5).png) 
