@@ -26,7 +26,7 @@ Conducted simple data wrangling and data cleaning:
 - We added the region and the continent corresponding to each country
 
 
-📍 Jupyter script: [Notebook]()
+📍 Jupyter script: [Notebook](https://github.com/Nadia365/temperature_data_viz/blob/main/TemperatureVisualization.ipynb)
 
 
 
